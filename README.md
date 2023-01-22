@@ -11,7 +11,7 @@ Una vez descargado el archivo de GitHub se debe ejecutar el sgte comando
 npm install 
 ```
 ---
-## A LA HORA DE SUBIR UN PROYECTO CONSIDEREMOS
+## FORMA DE FUNCIONAR DE LA APLICACION DE CONSOLA
 
 <p align="center">Crear tarea</p>
 <p align="center"><img src="./img/img1.png"/></p>
